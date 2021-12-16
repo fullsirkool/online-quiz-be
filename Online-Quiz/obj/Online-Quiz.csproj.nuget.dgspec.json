@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Minh La Anhihi\\Desktop\\Code Linh Tinh\\Backend\\.Net\\Online-Quiz\\Online-Quiz\\Online-Quiz.csproj": {}
+    "C:\\Users\\Fulls\\OneDrive\\Máy tính\\Demo Online Quiz\\online-quiz-be\\Online-Quiz\\Online-Quiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Minh La Anhihi\\Desktop\\Code Linh Tinh\\Backend\\.Net\\Online-Quiz\\Online-Quiz\\Online-Quiz.csproj": {
+    "C:\\Users\\Fulls\\OneDrive\\Máy tính\\Demo Online Quiz\\online-quiz-be\\Online-Quiz\\Online-Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Minh La Anhihi\\Desktop\\Code Linh Tinh\\Backend\\.Net\\Online-Quiz\\Online-Quiz\\Online-Quiz.csproj",
+        "projectUniqueName": "C:\\Users\\Fulls\\OneDrive\\Máy tính\\Demo Online Quiz\\online-quiz-be\\Online-Quiz\\Online-Quiz.csproj",
         "projectName": "Online-Quiz",
-        "projectPath": "C:\\Users\\Minh La Anhihi\\Desktop\\Code Linh Tinh\\Backend\\.Net\\Online-Quiz\\Online-Quiz\\Online-Quiz.csproj",
-        "packagesPath": "C:\\Users\\Minh La Anhihi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Minh La Anhihi\\Desktop\\Code Linh Tinh\\Backend\\.Net\\Online-Quiz\\Online-Quiz\\obj\\",
+        "projectPath": "C:\\Users\\Fulls\\OneDrive\\Máy tính\\Demo Online Quiz\\online-quiz-be\\Online-Quiz\\Online-Quiz.csproj",
+        "packagesPath": "C:\\Users\\Fulls\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fulls\\OneDrive\\Máy tính\\Demo Online Quiz\\online-quiz-be\\Online-Quiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Minh La Anhihi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fulls\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -90,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
